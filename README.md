@@ -1,4 +1,4 @@
-
+(https://raw.githubusercontent.com/Ritik0302/IOC-Digger/refs/heads/main/img1.png)
 # 🕵️‍♂️ IOC-Digger
 
 **IOC-Digger** is a Python-based tool designed to extract Indicators of Compromise (IOCs) from `.eml` email files. It can identify and display IP addresses, URLs, header metadata, and calculate hashes of any attachments found.
